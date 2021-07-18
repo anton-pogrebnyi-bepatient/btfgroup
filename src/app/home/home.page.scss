@@ -5,3 +5,7 @@
 .primary {
   --ion-color-primary: var(--ion-color-primary);
 }
+
+.ellipsed {
+  text-overflow: ellipsis;
+}
